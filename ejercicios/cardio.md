@@ -13,4 +13,8 @@ Comienza con un calentamiento de 5-10 minutos (caminar o trotar suavemente).
 Realiza la actividad (correr, nadar, andar en bicicleta, saltar la cuerda) durante al menos 30 minutos.
 Termina con un enfriamiento de 5-10 minutos y estiramientos.
 
+# Consejos y precauciones
+Mantén una hidratación adecuada durante todo el entrenamiento.
+Escoge un ritmo que puedas mantener durante toda la sesión.
+Si haces ejercicio en exteriores, ten en cuenta las condiciones climáticas para evitar malestares.
 
