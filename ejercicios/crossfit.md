@@ -13,3 +13,8 @@ El CrossFit es un programa de entrenamiento que combina levantamiento de pesas, 
 2. Realiza el WOD (Workout of the Day) con diferentes movimientos que desafíen todo el cuerpo.
 3. Termina con estiramientos para prevenir rigidez.
 
+## Consejos
+1. Enfócate en la técnica para evitar lesiones.
+2. Escoge un peso adecuado y aumenta progresivamente.
+3. Mantén la consistencia para obtener mejores resultados.
+
