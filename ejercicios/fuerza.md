@@ -13,3 +13,7 @@ Los ejercicios de fuerza consisten en actividades que trabajan los músculos, me
 2.Realiza 3-4 series de 8-12 repeticiones con el peso adecuado.
 3.Termina con estiramientos y relajación muscular.
 
+# Consejos y precauciones
+Realiza estiramientos después de un entrenamiento para mejorar la flexibilidad.
+No te forces más allá de tu límite.
+Mantén una postura relajada durante los estiramientos.
