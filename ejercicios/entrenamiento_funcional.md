@@ -13,3 +13,8 @@ El entrenamiento funcional mejora la capacidad del cuerpo para realizar activida
 2.Realiza movimientos compuestos como sentadillas, flexiones, y saltos.
 3.Termina con estiramientos de cuerpo completo.
 
+## Consejos y precauciones
+Mantén una postura correcta durante todos los movimientos.
+Integra movimientos que imiten acciones diarias.
+Trabaja con variaciones para mantener el desafío.
+
