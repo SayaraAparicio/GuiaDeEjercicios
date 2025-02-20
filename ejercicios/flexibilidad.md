@@ -7,3 +7,8 @@ Los ejercicios de flexibilidad mejoran la amplitud de movimiento y la elasticida
 1.Mejora el rango de movimiento articular.
 2.Previene lesiones.
 3.Aumenta la circulación sanguínea en los músculos.
+
+# Instrucciones 
+1.Comienza con un calentamiento suave.
+2.Realiza estiramientos estáticos o dinámicos de cada grupo muscular durante 20-30 segundos.
+3.Evita rebotes y mantiene una respiración profunda.
